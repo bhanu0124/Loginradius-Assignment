@@ -1,7 +1,7 @@
 ## Steps to run: -
 <ul>
   <li> Step 1: Extract the zip file contents (Extract here) </li>
-  <li> Step 2: cd Automation Testing </li>
+  <li> Step 2: cd Loginradius-Assignment </li>
   <li> Step 3: npm i </li>
   <li> Step 4: npm test </li>
 </ul> 
