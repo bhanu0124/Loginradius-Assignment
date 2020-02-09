@@ -18,7 +18,7 @@ Page.prototype.clickOnLogin = async function () {
 };
 
 Page.prototype.dismissPopUp = async function () {
-    await this.driver.wait(until.elementLocated(By.linkText('Login')), 15000, 'Looking for element');
+    await this.driver.wait(until.elementLocated(By.className('lr-close-pop')), 15000, 'Looking for element');
     const dismissBtn = await this.driver.findElement(By.className('lr-close-pop'));
     return dismissBtn;
 }
