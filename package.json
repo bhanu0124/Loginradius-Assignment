@@ -1,0 +1,24 @@
+{
+  "name": "loginhub-automation-testing",
+  "version": "1.0.0",
+  "description": "LoginHub Automation testing using selenium and node js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test --reporter mochawesome --reporter-options autoOpen=true"
+  },
+  "author": "Sudheer Doguparthi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^79.0.0",
+    "faker": "^4.1.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "dependencies": {}
+}
