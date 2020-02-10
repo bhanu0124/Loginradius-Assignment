@@ -1,12 +1,13 @@
 ## Steps to run: -
 <ul>
-  <li> Step 1: Extract the zip file contents (Extract here) </li>
-  <li> Step 2: cd Loginradius-Assignment </li>
-  <li> Step 3: npm i </li>
-  <li> Step 4: npm test </li>
+  <li> Step 1: Clone the Repository </li>
+  <li> Step 2: Extract the zip file contents (Extract here) </li>
+  <li> Step 3: cd Loginradius-Assignment </li>
+  <li> Step 4: npm i </li>
+  <li> Step 5: npm test </li>
 </ul> 
 
-Note: - It will run based on chrome driver version and in this project,  we have used 79 chrome version.
+Note: - PLease use chrome browser version 79.0.or below as in the project we have used 79 chrome driver version which doesn't forward compatbaility.
 
 ### Positive Test Case: -
 <ul>
