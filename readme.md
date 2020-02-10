@@ -37,3 +37,10 @@ Note: - PLease use chrome browser version 79.0.or below as in the project we hav
   <li>9.Validate Date of Birth format in Registration Page. </li>
   <li>10.Validate Password field in Registration Page. </li>
   </ul>
+  
+ ### Reporting :-
+  <ul>
+  <li>Step 1: Go to Below path </li>
+  <li>Path of Repository/Loginradius-Assignment/tree/master/mochawesome-report</li>
+  <li>Step 2: Open this mochawesome.html file for latest report.</li>
+  </ul>
